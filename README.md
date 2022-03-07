@@ -1,4 +1,5 @@
-#Coin Paprika (MVVM-Clean Code)
+##Coin Paprika (MVVM-Clean Code)
+
 Coinpaprika is a Cryptocurrency Market Research Platform.
 
 ## Features
