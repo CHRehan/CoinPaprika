@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Paprika</string>
+    <string name="tags">Tags</string>
+    <string name="team_members">Team members</string>
+    <string name="active">active</string>
+    <string name="inactive">inactive</string>
+    <string name="ss">vxv</string>
+</resources>
